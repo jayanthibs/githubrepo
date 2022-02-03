@@ -1,4 +1,4 @@
-package objectclasspractice;
+package clonepackage;
 //This is default and parameterized constructors
 public class Constructors {
 	int a=10;
